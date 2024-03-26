@@ -1,0 +1,2 @@
+,Classifier_Name,Optimitied_Param,Model_Path
+0,RNN,"{'activation': 'sigmoid', 'dropout_rate': 0.3, 'early_stopping_min_delta': 0.1, 'early_stopping_mode': 'max', 'early_stopping_patience': 3, 'optimizer': 'adam', 'units': 100, 'verbose': 1}",/mnt/md0/Public/T5/model/1_2/3//RNN.pkl
